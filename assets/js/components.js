@@ -5,7 +5,7 @@ const Components = {
     header: function(isAlt = false) {
         return `
             <header id="header" ${isAlt ? 'class="alt"' : ''}>
-                <h1><a href="#home">Alpha</a> by HTML5 UP</h1>
+                <h1><a href="#home">Rasheesa</a> books</h1>
                 <nav id="nav">
                     <ul>
                         <li><a href="#home" class="nav-link">Home</a></li>
@@ -15,18 +15,8 @@ const Components = {
                                 <li><a href="#generic" class="nav-link">Generic</a></li>
                                 <li><a href="#contact" class="nav-link">Contact</a></li>
                                 <li><a href="#elements" class="nav-link">Elements</a></li>
-                                <li>
-                                    <a href="#">Submenu</a>
-                                    <ul>
-                                        <li><a href="#">Option One</a></li>
-                                        <li><a href="#">Option Two</a></li>
-                                        <li><a href="#">Option Three</a></li>
-                                        <li><a href="#">Option Four</a></li>
-                                    </ul>
-                                </li>
                             </ul>
                         </li>
-                        <li><a href="#" class="button">Sign Up</a></li>
                     </ul>
                 </nav>
             </header>
@@ -58,10 +48,6 @@ const Components = {
             <section id="banner">
                 <h2>Alpha</h2>
                 <p>Another fine responsive site template freebie by HTML5 UP.</p>
-                <ul class="actions special">
-                    <li><a href="#" class="button primary">Sign Up</a></li>
-                    <li><a href="#" class="button">Learn More</a></li>
-                </ul>
             </section>
         `;
     }
