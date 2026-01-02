@@ -15,9 +15,9 @@ const Pages = {
                 <section class="box special">
                     <header class="major">
                         <h2>About Me</h2>
-                        <p>Hi! Aku Rasheesa, nama pena yang kuambil dari namaku sendiri—Kevin Rasheesa.
-                        Di malam hari, aku penulis fiksi pemula yang senang menulis tentang emosi, cinta yang rumit, dunia yang hancur, dan manusia yang sering kali kalah oleh pikirannya sendiri. Tapi di siang hari, aku seorang DevOps/Software Engineer. Sama-sama menulis, hanya saja bahasanya berbeda :D
-                        Mungkin terdengar kontras, tapi buat aku, keduanya saling melengkapi. Teknologi mengajarkanku disiplin, keteraturan, dan struktur. Sementara menulis memberiku ruang untuk bernapas dan kebebasan untuk berantakan, rapuh, dan jujur.
+                        <p>Hi! Aku Rasheesa, nama pena yang kuambil dari namaku sendiri—Kevin Rasheesa.<br />
+                        Di malam hari, aku penulis fiksi pemula yang senang menulis tentang emosi, cinta yang rumit, dunia yang hancur, dan manusia yang sering kali kalah oleh pikirannya sendiri. Tapi di siang hari, aku seorang DevOps/Software Engineer. Sama-sama menulis, hanya saja bahasanya berbeda :D <br />
+                        Mungkin terdengar kontras, tapi buat aku, keduanya saling melengkapi. Teknologi mengajarkanku disiplin, keteraturan, dan struktur. Sementara menulis memberiku ruang untuk bernapas dan kebebasan untuk berantakan, rapuh, dan jujur. <br />
                         Website ini adalah tempatku berbagi cerita dan imajinasi.</p>
                     </header>
                     <span class="image featured"><img src="images/pic01.jpg" alt="" /></span>
@@ -26,24 +26,24 @@ const Pages = {
                 <section class="box special features">
                     <div class="features-row">
                         <section>
-                            <span class="icon solid major fa-heart accent-red"></span>
+                            <span class="icon solid major fa-heart accent2"></span>
                             <h3>Romance</h3>
                             <p>Aku menulis romance sebagai sarana untuk mencurahkan isi kepala dan hati. Karena entah kenapa, banyak hal terasa lebih jujur ketika disampaikan lewat kisah cinta.</p>
                         </section>
                         <section>
-                            <span class="icon solid major fa-chart-area accent3"></span>
+                            <span class="icon solid major fa-skull accent4"></span>
                             <h3>Thriller/Survival</h3>
                             <p>Genre ini menjembatani pikiranku yang sering membayangkan: bagaimana jika dunia benar-benar hancur, dan aku terpaksa hidup di dalamnya.</p>
                         </section>
                     </div>
                     <div class="features-row">
                         <section>
-                            <span class="icon solid major fa-cloud accent4"></span>
+                            <span class="icon solid major fa-dragon accent3"></span>
                             <h3>Fantasy</h3>
                             <p>Fantasy adalah tempatku membayangkan hal-hal yang mustahil terjadi di dunia ini. Sebuah ruang bebas tanpa batas realitas.</p>
                         </section>
                         <section>
-                            <span class="icon solid major fa-lock accent5"></span>
+                            <span class="icon solid major fa-cloud accent5"></span>
                             <h3>Slice of Life</h3>
                             <p>Potongan-potongan kecil kehidupan sehari-hari yang bisa dirasakan; sederhana, terasa dekat, justru karena tidak berusaha menjadi luar biasa.</p>
                         </section>
