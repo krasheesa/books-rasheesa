@@ -15,8 +15,10 @@ const Pages = {
                 <section class="box special">
                     <header class="major">
                         <h2>About Me</h2>
-                        <p>Blandit varius ut praesent nascetur eu penatibus nisi risus faucibus nunc ornare
-                        adipiscing nunc adipiscing. Condimentum turpis massa.</p>
+                        <p>Hi! Aku Rasheesa, nama pena yang kuambil dari namaku sendiri—Kevin Rasheesa.
+                        Di malam hari, aku penulis fiksi pemula yang senang menulis tentang emosi, cinta yang rumit, dunia yang hancur, dan manusia yang sering kali kalah oleh pikirannya sendiri. Tapi di siang hari, aku seorang DevOps/Software Engineer. Sama-sama menulis, hanya saja bahasanya berbeda :D
+                        Mungkin terdengar kontras, tapi buat aku, keduanya saling melengkapi. Teknologi mengajarkanku disiplin, keteraturan, dan struktur. Sementara menulis memberiku ruang untuk bernapas dan kebebasan untuk berantakan, rapuh, dan jujur.
+                        Website ini adalah tempatku berbagi cerita dan imajinasi.</p>
                     </header>
                     <span class="image featured"><img src="images/pic01.jpg" alt="" /></span>
                 </section>
@@ -24,26 +26,26 @@ const Pages = {
                 <section class="box special features">
                     <div class="features-row">
                         <section>
-                            <span class="icon solid major fa-bolt accent2"></span>
-                            <h3>Magna etiam</h3>
-                            <p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+                            <span class="icon solid major fa-heart accent-red"></span>
+                            <h3>Romance</h3>
+                            <p>Aku menulis romance sebagai sarana untuk mencurahkan isi kepala dan hati. Karena entah kenapa, banyak hal terasa lebih jujur ketika disampaikan lewat kisah cinta.</p>
                         </section>
                         <section>
                             <span class="icon solid major fa-chart-area accent3"></span>
-                            <h3>Ipsum dolor</h3>
-                            <p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+                            <h3>Thriller/Survival</h3>
+                            <p>Genre ini menjembatani pikiranku yang sering membayangkan: bagaimana jika dunia benar-benar hancur, dan aku terpaksa hidup di dalamnya.</p>
                         </section>
                     </div>
                     <div class="features-row">
                         <section>
                             <span class="icon solid major fa-cloud accent4"></span>
-                            <h3>Sed feugiat</h3>
-                            <p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+                            <h3>Fantasy</h3>
+                            <p>Fantasy adalah tempatku membayangkan hal-hal yang mustahil terjadi di dunia ini. Sebuah ruang bebas tanpa batas realitas.</p>
                         </section>
                         <section>
                             <span class="icon solid major fa-lock accent5"></span>
-                            <h3>Enim phasellus</h3>
-                            <p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+                            <h3>Slice of Life</h3>
+                            <p>Potongan-potongan kecil kehidupan sehari-hari yang bisa dirasakan; sederhana, terasa dekat, justru karena tidak berusaha menjadi luar biasa.</p>
                         </section>
                     </div>
                 </section>

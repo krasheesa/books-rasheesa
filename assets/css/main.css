@@ -2441,6 +2441,11 @@
 				color: #ffffff;
 			}
 
+			.icon.major.accent-red {
+				background: #e74c3c;
+				color: #ffffff;
+			}
+
 /* Image */
 
 	.image {
