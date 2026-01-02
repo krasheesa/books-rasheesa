@@ -15,7 +15,7 @@ const Pages = {
                 <section class="box special">
                     <header class="major">
                         <h2>About Me</h2>
-                        <p>Blandit varius ut praesent nascetur eu penatibus nisi risus faucibus nunc ornare<br />
+                        <p>Blandit varius ut praesent nascetur eu penatibus nisi risus faucibus nunc ornare
                         adipiscing nunc adipiscing. Condimentum turpis massa.</p>
                     </header>
                     <span class="image featured"><img src="images/pic01.jpg" alt="" /></span>
