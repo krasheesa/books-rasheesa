@@ -2327,7 +2327,14 @@
 
 		.box.special {
 			text-align: center;
+			display: flex;
+			flex-direction: column;
+			height: 100%;
 		}
+
+			.box.special p {
+				flex-grow: 1;
+			}
 
 		.box .image.featured {
 			border-radius: 0;
