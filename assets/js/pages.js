@@ -15,12 +15,12 @@ const Pages = {
                 <section class="box special">
                     <header class="major">
                         <h2>About Me</h2>
-                        <p>Hi! Aku Rasheesa, nama pena yang kuambil dari namaku sendiri—Kevin Rasheesa.<br />
-                        Di malam hari, aku penulis fiksi pemula yang senang menulis tentang emosi, cinta yang rumit, dunia yang hancur, dan manusia yang sering kali kalah oleh pikirannya sendiri. Tapi di siang hari, aku seorang DevOps/Software Engineer. Sama-sama menulis, hanya saja bahasanya berbeda :D <br />
-                        Mungkin terdengar kontras, tapi buat aku, keduanya saling melengkapi. Teknologi mengajarkanku disiplin, keteraturan, dan struktur. Sementara menulis memberiku ruang untuk bernapas dan kebebasan untuk berantakan, rapuh, dan jujur. <br />
+                        <p>Hi! Aku Rasheesa, nama pena yang kuambil dari namaku sendiri—Kevin Rasheesa.<br /><br />
+                        Di malam hari, aku penulis fiksi pemula yang senang menulis tentang emosi, cinta yang rumit, dunia yang hancur, dan manusia yang sering kali kalah oleh pikirannya sendiri. Tapi di siang hari, aku seorang DevOps/Software Engineer. Sama-sama menulis, hanya saja bahasanya berbeda :D <br /><br />
+                        Mungkin terdengar kontras, tapi buat aku, keduanya saling melengkapi. Teknologi mengajarkanku disiplin, keteraturan, dan struktur. Sementara menulis memberiku ruang untuk bernapas dan kebebasan untuk berantakan, rapuh, dan jujur. <br /><br />
                         Website ini adalah tempatku berbagi cerita dan imajinasi.</p>
                     </header>
-                    <span class="image featured"><img src="images/pic01.jpg" alt="" /></span>
+                    <span class="image featured"><img src="images/profile.jpg" alt="" /></span>
                 </section>
 
                 <section class="box special features">
@@ -54,11 +54,15 @@ const Pages = {
                     <div class="col-6 col-12-narrower">
 
                         <section class="box special">
-                            <span class="image featured"><img src="images/pic02.jpg" alt="" /></span>
-                            <h3>Sed lorem adipiscing</h3>
-                            <p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+                            <span class="image featured"><img src="images/book-catalog/broken-butterfly.jpg" alt="" /></span>
+                            <h3>Broken Butterfly</h3>
+                            <p>Rafi, seorang pria yang terluka oleh pengkhianatan dan bayang-bayang masa lalu yang tak pernah benar-benar pergi. 
+                            Saat kenangan indah berubah menjadi beban dan rutinitas menjadi pelarian, pertemuannya dengan Kirana membuka kemungkinan 
+                            akan harapan yang lama terkubur. Namun, di tengah mimpi buruk, bisikan trauma, dan ketakutan untuk kembali percaya, 
+                            Rafi dihadapkan pada satu pertanyaan: beranikah ia menerima cinta yang hadir kembali, atau memilih bertahan dalam kehancuran yang sudah terlalu lama ia kenal? <br /><br />
+                            Romance - Slice of life - Physicological - Angst</p>
                             <ul class="actions special">
-                                <li><a href="#" class="button alt">Learn More</a></li>
+                                <li><a href="#" class="button alt">More</a></li>
                             </ul>
                         </section>
 
@@ -66,11 +70,16 @@ const Pages = {
                     <div class="col-6 col-12-narrower">
 
                         <section class="box special">
-                            <span class="image featured"><img src="images/pic03.jpg" alt="" /></span>
-                            <h3>Accumsan integer</h3>
-                            <p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+                            <span class="image featured"><img src="images/book-catalog/t-mournhill-hope.png" alt="" /></span>
+                            <h3>The Mournhill Hope</h3>
+                            <p>Eliano (Eli), seorang pria biasa yang datang ke kota baru demi sedikit ketenangan—hanya untuk menyaksikan dunia runtuh oleh ledakan nuklir. 
+                            Kabut menelan kota, waktu kehilangan makna, dan sosok-sosok yang tak lagi manusia berkeliaran di antara puing kehancuran. 
+                            Terluka, terjebak, dan sendirian, Eli berjuang bertahan hidup, ditemani satu-satunya hal yang tersisa: sebuah suara asing dari telepon satelit 
+                            yang terus hadir di tengah sunyi. Di dunia yang telah kehilangan segalanya, pertanyaannya bukan lagi tentang hidup atau mati, 
+                            melainkan apakah satu suara cukup untuk menyelamatkan jiwanya—atau justru menuntunnya pada akhir yang lain.<br /><br />
+                            Survival - Thriller - Post-apocalyptic - Romance</p>
                             <ul class="actions special">
-                                <li><a href="#" class="button alt">Learn More</a></li>
+                                <li><a href="#" class="button alt">More</a></li>
                             </ul>
                         </section>
 
@@ -93,7 +102,7 @@ const Pages = {
                     <p>A generic page for every non-generic situation.</p>
                 </header>
                 <div class="box">
-                    <span class="image featured"><img src="images/pic01.jpg" alt="" /></span>
+                    <span class="image featured"><img src="images/profile.jpg" alt="" /></span>
                     <h3>This is a subheading</h3>
                     <p>Cep risus aliquam gravida cep ut lacus amet. Adipiscing faucibus nunc placerat. Tempus adipiscing turpis non blandit accumsan eget lacinia nunc integer interdum amet aliquam ut orci non col ut ut praesent. Semper amet interdum mi. Phasellus enim laoreet ac ac commodo faucibus faucibus. Curae ante vestibulum ante. Blandit. Ante accumsan nisi eu placerat gravida placerat adipiscing in risus fusce vitae ac mi accumsan nunc in accumsan tempor blandit aliquet aliquet lobortis. Ultricies blandit lobortis praesent turpis. Adipiscing accumsan adipiscing adipiscing ac lacinia cep. Orci blandit a iaculis adipiscing ac. Vivamus ornare laoreet odio vis praesent nunc lorem mi. Erat. Tempus sem faucibus ac id. Vis in blandit. Nascetur ultricies blandit ac. Arcu aliquam. Accumsan mi eget adipiscing nulla. Non vestibulum ac interdum condimentum semper commodo massa arcu.</p>
                     <div class="row">
