@@ -56,10 +56,9 @@ const Pages = {
                         <section class="box special">
                             <span class="image featured"><img src="images/book-catalog/broken-butterfly.jpg" alt="" /></span>
                             <h3>Broken Butterfly</h3>
-                            <p>Rafi, seorang pria yang terluka oleh pengkhianatan dan bayang-bayang masa lalu yang tak pernah benar-benar pergi. 
-                            Saat kenangan indah berubah menjadi beban dan rutinitas menjadi pelarian, pertemuannya dengan Kirana membuka kemungkinan 
-                            akan harapan yang lama terkubur. Namun, di tengah mimpi buruk, bisikan trauma, dan ketakutan untuk kembali percaya, 
-                            Rafi dihadapkan pada satu pertanyaan: beranikah ia menerima cinta yang hadir kembali, atau memilih bertahan dalam kehancuran yang sudah terlalu lama ia kenal? <br /><br />
+                            <p>Rafi, seorang pria yang terluka oleh pengkhianatan dan masa lalu yang tak pernah benar-benar pergi. 
+                            Pertemuannya dengan Kirana membuka kembali harapan, sekaligus memaksanya memilih antara mempercayai cinta 
+                            sekali lagi atau tetap bertahan dalam kehancuran yang sudah lama ia kenal.<br /><br />
                             Romance - Slice of life - Physicological - Angst</p>
                             <ul class="actions special">
                                 <li><a href="#" class="button alt">More</a></li>
@@ -72,11 +71,9 @@ const Pages = {
                         <section class="box special">
                             <span class="image featured"><img src="images/book-catalog/t-mournhill-hope.png" alt="" /></span>
                             <h3>The Mournhill Hope</h3>
-                            <p>Eliano (Eli), seorang pria biasa yang datang ke kota baru demi sedikit ketenangan—hanya untuk menyaksikan dunia runtuh oleh ledakan nuklir. 
-                            Kabut menelan kota, waktu kehilangan makna, dan sosok-sosok yang tak lagi manusia berkeliaran di antara puing kehancuran. 
-                            Terluka, terjebak, dan sendirian, Eli berjuang bertahan hidup, ditemani satu-satunya hal yang tersisa: sebuah suara asing dari telepon satelit 
-                            yang terus hadir di tengah sunyi. Di dunia yang telah kehilangan segalanya, pertanyaannya bukan lagi tentang hidup atau mati, 
-                            melainkan apakah satu suara cukup untuk menyelamatkan jiwanya—atau justru menuntunnya pada akhir yang lain.<br /><br />
+                            <p>Eliano (Eli), seorang pria biasa yang terjebak di kota yang runtuh setelah ledakan nuklir 
+                            mengakhiri dunianya. Dalam kabut, dan kehancuran, satu-satunya hal yang menemaninya bertahan hidup adalah suara asing dari telepon satelit. 
+                            Namun, apakah satu suara cukup untuk menyelamatkan jiwanya, atau justru menuntunnya pada akhir yang lain?<br /><br />
                             Survival - Thriller - Post-apocalyptic - Romance</p>
                             <ul class="actions special">
                                 <li><a href="#" class="button alt">More</a></li>
